@@ -5,3 +5,5 @@ def main():
         x = 2.0 * x * (1 - x)
         print(x)
 main()
+
+# Uocavamo da u ovom slucaju pocevsi od 6. koraka pa nadalje vrijednost od x ne varira.
